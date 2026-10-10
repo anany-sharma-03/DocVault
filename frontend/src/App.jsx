@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import {
+  API_URL,
   getDocuments,
   getFolders,
   uploadDocument,
